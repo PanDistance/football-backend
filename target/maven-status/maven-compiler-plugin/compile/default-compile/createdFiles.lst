@@ -1,0 +1,6 @@
+com\football\shop\controller\GoodsController.class
+com\football\shop\entity\Goods.class
+com\football\shop\FootballShopApplication.class
+com\football\shop\service\GoodsService.class
+com\football\shop\service\impl\GoodsServiceImpl.class
+com\football\shop\mapper\GoodsMapper.class
